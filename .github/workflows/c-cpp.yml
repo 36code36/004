@@ -1,4 +1,3 @@
-yaml
 name: Build StemForge
 on: [push, workflow_dispatch]
 
